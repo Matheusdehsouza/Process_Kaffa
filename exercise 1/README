@@ -1,1 +1,2 @@
- 
+ Para usar o verificador basta colocar os números do CNPJ, se hover 14 números será aceito, pois se parece com. Se não houver 14, tiver mais ou menos, tiver letras, será recusado.
+O verificador aceita "." , "/" e "-", ou se quiser colocar os 14 dígitos direto pode também, será computado.
