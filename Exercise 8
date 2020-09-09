@@ -1,0 +1,5 @@
+It will be done in: Mysql, creating a database with 3 tables.
+First table will be: Customers. In this table you will have the customer's id (it will be generated automatically by order of registration), name, number (cell phone) and address of the same.
+Second table will be: Products. Here are all the products duly registered by: name, price, available quantity, category and brand.
+Third table will be: Orders. Here orders will be organized so that delivery is made in a more organized way and everything is documented if there is a problem; registered by: Order (day of product purchase), product, address.
+With everything duly registered in the delivery part, which will be the last one, the order defined by the proximity, starting with the closest one and going to deliver throughout the neighborhood until the last of the day, until the closing time of the delivery shift.
